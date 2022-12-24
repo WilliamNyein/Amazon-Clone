@@ -1,0 +1,25 @@
+.order{
+    position: relative;
+    padding: 20px;
+    background-color: white;
+    margin:20px 0px;
+    border: 1px solid lightgray;
+}
+
+.order p,h1{
+    display: flex;
+    padding-left: 20px;
+}
+
+.total{
+    display: flex;
+    justify-content: flex-end;
+    font-weight: 500;
+    color:darkgray;
+}
+
+.order_id{
+    position: absolute;
+    top:40px;
+    right:20px;
+}

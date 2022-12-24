@@ -1,0 +1,15 @@
+.subtotal{
+    background: lightpink;
+    justify-content: space-around;
+    padding: 30px;
+    border-radius: 5px;
+}
+
+
+
+button{
+    margin-top: 20px;
+    width:100%;
+    height: 30px;
+}
+
